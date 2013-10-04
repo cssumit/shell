@@ -1,0 +1,11 @@
+compie it by make file
+
+--> first step : make object
+--> second step: make compile
+--> third step : ./myls <directory/filename>
+
+
+note: dont use multiple option 
+only for ls-a ls -l ls -R and ls -d
+
+thank you!!!
