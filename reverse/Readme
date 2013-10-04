@@ -1,0 +1,13 @@
+>> This program consist three files.
+	1. main.c
+	2. logics.c
+	3. functions.h
+>> to run this program write these commands
+	1. make object 
+	2. make reverse
+	3. ./reverse_the_file [your_text_file]
+>> please dont give the buffer length more than the file size.
+........... Thank You!!!............
+
+by Sumit Mishra[201305600]
+	M.Tech CSE
